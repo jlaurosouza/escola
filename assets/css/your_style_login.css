@@ -1,0 +1,51 @@
+#login #header{
+    height: 100px !important;
+}
+
+#login #header #logo-group {
+    float:none;
+    height: auto;
+    margin:0 auto;
+    overflow: hidden;
+    width: 100%;
+}
+
+#login #header #logo-group-1 {
+    float:none;
+    height: auto;
+    margin:0 auto;
+    overflow: hidden;    
+}
+
+#login #header #logo-group-1 img{
+    width: 230px;
+}
+
+#login-header-space{
+    padding-top: 31px;
+}
+
+#login #header #logo-group #logo {
+    height: auto;
+    margin-top:8px;
+    overflow: hidden;
+    text-align:center;
+    width: 100%;
+}
+
+#login #header #logo-group #logo img {
+   padding:0;
+   width: 230px; 
+}
+#loading{
+    float: right; display: none;
+}
+#loadingD{
+    float: right; display: none;
+}
+/*#login #header #logo img {
+    width: 230px !important;
+}
+#login-header-space{
+    margin-top: 20px;
+}*/

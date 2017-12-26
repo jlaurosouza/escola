@@ -1,0 +1,15 @@
+table {border: 1px solid #333; border-spacing: 0; font-family: Verdana, Geneva, sans-serif; width: 100%;}
+
+table thead {}
+table thead tr {}
+table thead tr th {font-size: 10px; padding: 8px 5px; text-align: center;}
+table thead tr.tr-title th {font-size: 14px;}
+
+table tbody {}
+table tbody tr {}
+table tbody tr td {border: 1px solid 2569AE; font-size: 12px; padding: 8px 5px; text-align: center;}
+table tbody tr.odd td{background-color: #F2F2F2;}
+
+table tfoot {}
+table tfoot tr {}
+table tfoot tr th {font-size: 12px; padding: 8px 5px; text-align: center;}
